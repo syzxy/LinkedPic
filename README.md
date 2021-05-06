@@ -1,11 +1,6 @@
 # LinkedPic
 A social media single-page-app(SPA), assignment of UNSW COMP6080 Web Front-End Programming 2020T1
 
-<img src="./frontend/screen_shots/feed.png" width="500">
-<img src="./frontend/screen_shots/edit_profile.png" width="500">
-<img src="./frontend/screen_shots/new_post.png" width="500">
-
-
 To play around with the project locally:
 - Start the server, you need python3 (>=3.6):
 ```
@@ -18,3 +13,7 @@ python3 run.py
 cd frontend/
 live-server
 ```
+<img src="./frontend/screen_shots/feed.png" width="500">
+<img src="./frontend/screen_shots/edit_profile.png" width="500">
+<img src="./frontend/screen_shots/new_post.png" width="500">
+
